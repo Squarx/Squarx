@@ -9,9 +9,9 @@
   🔺 Gmail: dimasclashx@gmail.com
 * ⚡ Fun fact: My specialty at the university was: **Power supply of aircraft**
 
-| ![1675616736120](https://github-readme-stats.vercel.app/api/top-langs?username=squarx&show_icons=true&locale=en&layout=compact) | ![1675616736120](https://github-readme-streak-stats.herokuapp.com/?user=squarx&https://github-readme-streak-stats.herokuapp.com/?user=squarx) |
-| ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-|                                                                                                                               | ![squarx](https://github-readme-stats.vercel.app/api?username=squarx&show_icons=true&locale=en)                                               |
+| ![1675616736120](https://github-readme-stats.vercel.app/api/top-langs?username=squarx&show_icons=true&locale=en&layout=compact)                 | ![squarx](https://github-readme-stats.vercel.app/api?username=squarx&show_icons=true&locale=en) |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+|  ![1675616736120](https://github-readme-streak-stats.herokuapp.com/?user=squarx&https://github-readme-streak-stats.herokuapp.com/?user=squarx) |                                                                                               |
 
 <!--
 **Squarx/Squarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
