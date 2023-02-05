@@ -10,6 +10,11 @@
 * ⚡ Fun fact: My specialty at the university was: **Power supply of aircraft**
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=squarx&show_icons=true&locale=en&layout=compact" alt="squarx" width= "500"/></p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=squarx&show_icons=true&locale=en" alt="squarx" width= "500"/></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=squarx&" alt="squarx" width= "500"/></p>
 
 <!--
 **Squarx/Squarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
