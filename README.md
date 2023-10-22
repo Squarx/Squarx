@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kopp Dmitry</h1>
 <h3 align="center">This is my notebook of completed projects.</h3>
 
-* 🌱 I’m currently learning **C/C++, DevOps, Python, Kotlin**
-* 🤔 I’m looking for help with OOP
+* 🌱 I’m currently learning **C/C++, DevOps, Python, Swift, Kotlin**
+* 🤔 I’m looking for help with multithreading C++
 * 📫 How to reach me:
   [🔺 Telegram](https://t.me/DimasXX)
   [🔺 VK](https://vk.com/id377414845)
